@@ -303,6 +303,18 @@ feature_row:
     order: 0;
     version: "v.3.1"
 
+  - image_path: /assets/images/exercises/opticalflow_teleop/opticalflow_teleop_teaser.png
+    alt: "Optical Flow Teleop"
+    title: "Optical Flow Teleop"
+    excerpt: "Teleoperate the robot using the image obtained from a webcam."
+    url: "/exercises/ComputerVision/opticalflow_teleop"
+    btn_class: "btn--danger"
+    btn_label: "Go!"
+    version_label: ""
+    status: "running"
+    order: 0;
+    version: "v.3.1"
+    
   - image_path: /assets/images/exercises/qualifying_formula/chrono_teaser.png
     alt: "Qualifying Formula1"
     title: "Qualifying Formula1"
